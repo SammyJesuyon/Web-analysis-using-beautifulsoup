@@ -25,4 +25,11 @@ common_words = [
     "new" "with",
     "this",
     "that",
+    "up",
+    "not",
+    "to",
+    "are",
+    "psf",
+    "all",
+    "can",
 ]
